@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Grupo Interdisciplinario de Cómputo Científico</title>
+    <link>/es/publication-type/2/</link>
+      <atom:link href="/es/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Grupo Interdisciplinario de Cómputo Científico, Universidad Nacional Autónoma de México</copyright><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2df4303d87deb067f3931098800f4116_54803_300x300_fit_lanczos_2.png</url>
+      <title>2</title>
+      <link>/es/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Nonlinear Convergence of Solar-like Stars Chromospheres Using Millimeter, Submillimeter, and Infrared Observations</title>
+      <link>/es/publication/ftapia-2020/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/ftapia-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

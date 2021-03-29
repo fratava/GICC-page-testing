@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminarios | Grupo Interdisciplinario de Cómputo Científico</title>
+    <link>/seminars/</link>
+      <atom:link href="/seminars/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seminarios</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Grupo Interdisciplinario de Cómputo Científico, Universidad Nacional Autónoma de México</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2df4303d87deb067f3931098800f4116_54803_300x300_fit_lanczos_2.png</url>
+      <title>Seminarios</title>
+      <link>/seminars/</link>
+    </image>
+    
+    <item>
+      <title>Procesamiento de grandes cantidades de datos de los radiointerferómetros ALMA y VLA</title>
+      <link>/seminars/datos-alma-vla/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/seminars/datos-alma-vla/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/WO_JrR-wK3Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Procesamiento de grandes cantidades de datos de los radiointerferómetros ALMA y VLA</title>
+      <link>/seminars/platicay/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/seminars/platicay/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/WO_JrR-wK3Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
