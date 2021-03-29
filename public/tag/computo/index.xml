@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cómputo | Grupo Interdisciplinario de Cómputo Científico</title>
+    <link>/tag/computo/</link>
+      <atom:link href="/tag/computo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cómputo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Grupo Interdisciplinario de Cómputo Científico, Universidad Nacional Autónoma de México</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2df4303d87deb067f3931098800f4116_54803_300x300_fit_lanczos_2.png</url>
+      <title>Cómputo</title>
+      <link>/tag/computo/</link>
+    </image>
+    
+    <item>
+      <title>Proyecto de colaboración</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

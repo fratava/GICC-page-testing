@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cómputo de Alto Rendimiento | Grupo Interdisciplinario de Cómputo Científico</title>
+    <link>/es/tag/computo-de-alto-rendimiento/</link>
+      <atom:link href="/es/tag/computo-de-alto-rendimiento/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cómputo de Alto Rendimiento</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Grupo Interdisciplinario de Cómputo Científico, Universidad Nacional Autónoma de México</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2df4303d87deb067f3931098800f4116_54803_300x300_fit_lanczos_2.png</url>
+      <title>Cómputo de Alto Rendimiento</title>
+      <link>/es/tag/computo-de-alto-rendimiento/</link>
+    </image>
+    
+    <item>
+      <title>Proyecto de Cómputo de Alto Rendimiento</title>
+      <link>/es/project/hpc/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/es/project/hpc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

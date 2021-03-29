@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Física | Grupo Interdisciplinario de Cómputo Científico</title>
+    <link>/es/tag/fisica/</link>
+      <atom:link href="/es/tag/fisica/index.xml" rel="self" type="application/rss+xml" />
+    <description>Física</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-mx</language><copyright>© Grupo Interdisciplinario de Cómputo Científico, Universidad Nacional Autónoma de México</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2df4303d87deb067f3931098800f4116_54803_300x300_fit_lanczos_2.png</url>
+      <title>Física</title>
+      <link>/es/tag/fisica/</link>
+    </image>
+    
+    <item>
+      <title>Física Clasica</title>
+      <link>/es/project/fisica_clasica/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/es/project/fisica_clasica/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
